@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+	<definitions>
+		<config>
+			<name>Tile</name>
+
+			<definition>
+				name|type|currentAnimation|animations
+			</definition>
+
+			<folders>
+				<content>tile</content>
+			</folders>
+		</config>
+	</definitions>
+</configs>

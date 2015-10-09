@@ -1,0 +1,13 @@
+*{
+	font: Arial 16px black;
+
+	outline: none;
+}
+
+fieldset, #jogo, #matrix {
+	float: left;
+}
+
+#matrix {
+	clear: both;
+}

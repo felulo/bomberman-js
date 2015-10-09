@@ -1,0 +1,38 @@
+<html>
+	<head>
+		<title>BomberManJS</title>
+
+		<link rel="stylesheet" type="text/css" href="client/css/styles.css">
+	</head>
+	<body>
+		<h1>BombermanJS</h1>
+
+		<fieldset>
+			<label for="txtNome">
+				Nome:
+				<input type="text" id="txtNome" placeholder="Nome...">
+			</label>
+
+			<br>
+			
+			<button type="button" id="btnCriarJogo">Criar Jogo</button>
+
+			<br>
+
+			<label for="txtIP">
+				IP:
+				<input type="text" id="txtIP" placeholder="255.255.255.255">
+			</label>
+			<button type="button" id="btnEntrarJogo">Entrar Jogo</button>
+		</fieldset>
+
+		<div id="jogo">
+			<canvas width="500" height="400" id="cvBackground" style="z-index: 0;  position: absolute;"></canvas>
+			<canvas width="500" height="400" id="cvMain" style="z-index: 1; position: absolute;"></canvas>
+		</div>
+
+		<div id="matrix"></div>
+
+		<script type="text/javascript" src="client/js/lib/require-jquery.js" data-main="client/js/home.js"></script>
+	</body>
+</html>

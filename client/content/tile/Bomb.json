@@ -1,0 +1,29 @@
+{
+	"name": "Bomb",
+	"type": "50",
+	"currentAnimation": "bomb",
+	"animations": {
+		"bomb": [{
+				"x": 0,
+				"y": 0,
+				"width": 24,
+				"height": 24,
+				"offsetX": 0,
+				"offsetY": 0
+			},{
+				"x": 24,
+				"y": 0,
+				"width": 24,
+				"height": 24,
+				"offsetX": 0,
+				"offsetY": 0
+			},{
+				"x": 48,
+				"y": 0,
+				"width": 24,
+				"height": 24,
+				"offsetX": 0,
+				"offsetY": 0
+			}]
+	}
+}

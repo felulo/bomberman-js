@@ -1,0 +1,30 @@
+{
+	"name": "Wall",
+	"type": "20",
+	"currentAnimation": "wall",
+	"animations": {
+		"wall": [{
+				"x": 0,
+				"y": 0,
+				"width": 24,
+				"height": 24,
+				"offsetX": 0,
+				"offsetY": 0
+			}],
+		"explode": [{
+				"x": 0,
+				"y": 24,
+				"width": 24,
+				"height": 24,
+				"offsetX": 0,
+				"offsetY": 0
+			},{
+				"x": 24,
+				"y": 24,
+				"width": 24,
+				"height": 24,
+				"offsetX": 0,
+				"offsetY": 0
+			}]	
+	}
+}

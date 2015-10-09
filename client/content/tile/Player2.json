@@ -1,0 +1,110 @@
+{
+	"name": "Player2",
+	"type": "102",
+	"currentAnimation": "south",
+	"animations": {
+		"north": [{
+				"x": 0,
+				"y": 0,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			},{
+				"x": 24,
+				"y": 0,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			},{
+				"x": 48,
+				"y": 0,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			}],
+		"east": [{
+				"x": 0,
+				"y": 36,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			},{
+				"x": 24,
+				"y": 36,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			},{
+				"x": 48,
+				"y": 36,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			}],
+		"south": [{
+				"x": 0,
+				"y": 72,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			},{
+				"x": 24,
+				"y": 72,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			},{
+				"x": 48,
+				"y": 72,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			}],
+		"west": [{
+				"x": 0,
+				"y": 108,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			},{
+				"x": 24,
+				"y": 108,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			},{
+				"x": 48,
+				"y": 108,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			}],
+		"die": [{
+				"x": 0,
+				"y": 144,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			},{
+				"x": 24,
+				"y": 144,
+				"width": 24,
+				"height": 36,
+				"offsetX": 0,
+				"offsetY": -12
+			}]
+	}
+}

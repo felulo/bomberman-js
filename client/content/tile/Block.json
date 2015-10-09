@@ -1,0 +1,15 @@
+{
+	"name": "Block",
+	"type": "10",
+	"currentAnimation": "block",
+	"animations": {
+		"block": [{
+				"x": 0,
+				"y": 0,
+				"width": 24,
+				"height": 24,
+				"offsetX": 0,
+				"offsetY": 0
+			}]
+	}
+}
